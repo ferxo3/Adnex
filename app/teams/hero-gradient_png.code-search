@@ -1,0 +1,81 @@
+# Query: hero-gradient.png
+
+26 results - 26 files
+
+app/blog-list/page.jsx:
+  20:           <div className="absolute -top-[250px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+app/faq/page.jsx:
+  27:             <div className="absolute left-1/2  -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-cover bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+app/forget-password/page.jsx:
+  16:           <div className="absolute left-1/2 top-25 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-30 md:hidden"></div>
+
+app/login/page.jsx:
+  17:           <div className="absolute left-1/2 top-25 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+app/request-demo/page.jsx:
+  16:           <div className="absolute left-1/2 top-0 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+app/signup/page.jsx:
+  16:           <div className="absolute left-1/2 top-25 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+app/tags/[tag]/page.jsx:
+  30:           <div className="absolute -top-[250px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+app/teams/[id]/page.jsx:
+  34:           <div className="absolute left-1/2 top-[200px] -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/about/AboutDetails.jsx:
+  20:       <div className="absolute -top-[300px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/blogs/FeatureBlog.jsx:
+  14:       <div className="absolute -top-150 left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/blogs/RecentNews.jsx:
+  32:       <div className="absolute left-1/2 top-20 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/career/CareerDetails.jsx:
+  14:       <div className="absolute -top-[300px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/contact/ContactInfo.jsx:
+  7:       <div className="absolute -top-[250px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/home-2/Hero.jsx:
+  40:             <div className="absolute -bottom-150 left-1/2 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-contain bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/home-3/BankingDetails.jsx:
+  15:       <div className="absolute -top-150 left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/home-4/TopIntegration.jsx:
+  21:         <div className="absolute -top-[300px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/home-7/CryptoMarket.jsx:
+  47:       <div className="absolute left-1/2 top-1/2 -z-10 h-[550px] w-full -translate-x-1/2 -translate-y-1/2   bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/home-7/Services.jsx:
+  15:       <div className="absolute left-1/2 top-0 -z-10 h-full w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/home-8/GetStart.jsx:
+  49:       <div className="absolute left-1/2 top-1/2 -z-10 h-[550px] w-full -translate-x-1/2 -translate-y-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/shared/CallToAction.jsx:
+  12:         <div className="absolute -bottom-[350px] left-1/2 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-contain bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/shared/ContactForm.jsx:
+  12:       <div className="absolute left-1/2  -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
+
+components/shared/FaqBackground.jsx:
+  9:       <div className="absolute left-1/2 top-150 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-cover bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/shared/NewsLetter.jsx:
+  10:         <div className="absolute -bottom-[350px] left-1/2 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-contain bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/shared/TeamBackground.jsx:
+  9:       <div className="absolute -top-[550px] left-1/2 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.svg')]  bg-contain bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/shared/TestimonialSlider.jsx:
+  18:           <div className="absolute -top-150 left-1/2 -z-10 h-full w-full -translate-x-1/2 bg-[url('/images/hero-gradient.png')]  bg-contain bg-center bg-no-repeat p-[350px] opacity-70 md:hidden"></div>
+
+components/testimonial/TestimonialSingle.jsx:
+  12:       <div className="absolute -top-[300px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>

@@ -1,0 +1,21 @@
+{
+  "singleQuote": true, // Usa comillas simples para las cadenas de texto
+  "wordWrap": true, // Habilita el ajuste de texto en el editor
+  "trailingComma": "all", // Agrega comas al final de listas y objetos, incluso en el último elemento
+  "plugins": [
+    "prettier-plugin-css-order", // Ordena propiedades CSS
+    "prettier-plugin-tailwindcss" // Organiza clases de Tailwind CSS automáticamente
+  ],
+  "pluginSearchDirs": false, // Desactiva la búsqueda automática de plugins en directorios
+  "organizeImportsSkipDestructiveCodeActions": true, // Evita que el organizador de importaciones haga cambios destructivos
+  "semi": false, // No agrega punto y coma al final de las líneas, excepto cuando es necesario
+  "useTabs": false, // Usa espacios en lugar de tabulaciones
+  "bracketSpacing": true, // Agrega espacio dentro de los corchetes de los objetos
+  "bracketSameLine": true, // Mantiene la etiqueta de cierre en la misma línea en HTML/JSX
+  "endOfLine": "lf", // Usa LF como el final de línea para asegurar compatibilidad entre sistemas
+  "quoteProps": "as-needed", // Usa comillas en las propiedades solo cuando sea necesario
+  "arrowParens": "always", // Siempre agrega paréntesis en las funciones de flecha
+  "printWidth": 120, // Máximo de caracteres por línea antes de hacer un salto de línea
+  "htmlWhitespaceSensitivity": "ignore", // Ignora el espacio en blanco en HTML
+  "singleAttributePerLine": false // Permite múltiples atributos en una sola línea en HTML/JSX
+}

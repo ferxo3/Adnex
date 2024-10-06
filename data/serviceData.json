@@ -1,0 +1,216 @@
+{
+  "ServiceData": [
+    {
+      "id": 1,
+      "slug": "seo-sem",
+      "title": "SE0 & SEM",
+      "excerpt": "Aumenta la visibilidad de tu negocio en los motores de búsqueda.",
+      "iconLight": "/images/services/investment.svg",
+      "iconDark": "/images/services/investment-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Con nuestro enfoque avanzado de SEO (Optimización para Motores de Búsqueda) y SEM (Marketing en Motores de Búsqueda), te ayudamos a posicionar tu página web en las primeras posiciones de Google y otros motores de búsqueda. ",
+      "serviceExpectation": "Utilizamos un enfoque integral que combina optimización técnica, investigación de palabras clave y una estrategia de contenido eficaz para mejorar tu tráfico orgánico de manera significativa. Nuestras tácticas incluyen la optimización de velocidad de página, mejora de la experiencia de usuario, análisis de backlinks, y la implementación de esquemas de datos estructurados que mejoran la visibilidad en los resultados de búsqueda.",
+      "serviceExpectationList": [
+        {
+          "item": "Neuromarketing y Análisis de Datos"
+        },
+        {
+          "item": "Automatización Inteligente de Campañas"
+        },
+        {
+          "item": "SEO y Posicionamiento Web:"
+        }
+      ],
+      
+      "serviceQualifications": "Ofrezco la creación de contenido dinámico, como posts para blogs, emails personalizados o anuncios, utilizando inteligencia artificial para adaptarse al tono y estilo de cada marca. Esto agiliza la producción de contenido relevante, manteniendo una alta calidad y coherencia con la identidad del cliente.",
+      "serviceQualificationsList": [
+        {
+          "item": "Automatización de Publicaciones"
+        },
+        {
+          "item": "Análisis de Sentimiento"
+        },
+        {
+          "item": "Generación de Contenido Adaptado"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "web-developer",
+      "title": "Diseño Web ",
+      "excerpt": "Diseños modernos, funcionales y centrados en la experiencia del usuario",
+      "iconLight": "/images/services/sales.svg",
+      "iconDark": "/images/services/sales-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Cada diseño web que se crea  está optimizado para ofrecer una experiencia de usuario superior. Combinamos estética moderna con una arquitectura de información clara, asegurando que cada visitante encuentre lo que busca de manera rápida y eficiente. Nuestros sitios están diseñados con un enfoque “mobile-first”, lo que significa que la experiencia es igualmente impactante tanto en dispositivos móviles como en escritorios.",
+      "serviceExpectation": "Utilizo las últimas tecnologías como HTML5, CSS3, JavaScript, y frameworks como React o Next.js, o CMS populares como Wordpress y Webflow para desarrollar sitios web altamente dinámicos y responsive. A través de la integración de animaciones suaves y transiciones fluidas, logramos captar la atención del usuario y mantenerlo navegando más tiempo. Además, cada sitio está optimizado para velocidad y seguridad, lo que garantiza tiempos de carga rápidos y una sólida protección contra amenazas de seguridad.",
+      "serviceExpectationList": [
+        {
+          "item": "Facilidad de uso y gestión"
+        },
+        {
+          "item": "Gran cantidad de plugins y temas"
+        },
+        {
+          "item": "Experiencia de usuario UI/UX"
+        }
+      ],
+      "serviceQualifications": "No sólo estoy centrado en el diseño visual, sino también en la conversión. Diseño páginas con llamadas a la acción (CTAs) estratégicamente colocadas, optimizadas para generar leads, ventas o suscripciones. Además, todos mis proyectos incluyen análisis de datos en tiempo real para medir el rendimiento del sitio web y realizar mejoras constantes.",
+      "serviceQualificationsList": [
+        {
+          "item": "Conversión optimizada"
+        },
+        {
+          "item": "SEO mejorado"
+        },
+        {
+          "item": "Soporte gratuito"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "ciberseguridad",
+      "title": "Ciberseguridad",
+      "excerpt": "La ciberseguridad es fundamental para cualquier empresa moderna.",
+      "iconLight": "/images/services/loan.svg",
+      "iconDark": "/images/services/loan-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "En Adnex, implementamos soluciones avanzadas de protección para asegurar que tu negocio esté a salvo de amenazas cibernéticas. Nuestra metodología comienza con una auditoría exhaustiva de seguridad para identificar vulnerabilidades existentes. Luego, diseñamos un plan personalizado que incluye la instalación de firewalls de próxima generación, sistemas de detección de intrusiones (IDS/IPS), cifrado de datos y monitoreo en tiempo real para prevenir y mitigar cualquier ataque.",
+      "serviceExpectationList": [
+        {
+          "item": "Protección de datos sensibles"
+        },
+        {
+          "item": "Prevención de ataques cibernéticos"
+        },
+        {
+          "item": "Protección contra pérdidas económicas"
+        }
+      ],
+      "serviceQualifications": "Nos mantenemos al tanto de las normativas de protección de datos como el GDPR y CCPA, ayudando a nuestros clientes a cumplir con las leyes de privacidad mientras mantienen la seguridad de su información. Ofrecemos soporte continuo para garantizar que tu infraestructura tecnológica esté protegida, actualizada y preparada para cualquier amenaza.",
+      "serviceQualificationsList": [
+        {
+          "item": "Cumplimiento de normativas"
+        },
+        {
+          "item": "Protección frente a fraudes digitales"
+        },
+        {
+          "item": "Seguridad en la nube y trabajo remoto"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "inteligencia-artificial",
+      "title": "Automatización AI",
+      "excerpt": "Aprovecha el poder de la inteligencia artificial para trasnforma tu negocio",
+      "iconLight": "/images/services/finance.svg",
+      "iconDark": "/images/services/finance-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Aprovecha el poder de la inteligencia artificial para transformar la forma en que opera tu negocio. En Adnex, desarrollo soluciones personalizadas de automatización basadas en IA para mejorar la eficiencia, reducir costos y optimizar flujos de trabajo. Desde chatbots inteligentes que interactúan con los clientes en tiempo real, hasta sistemas de análisis predictivo que te ayudan a tomar decisiones basadas en datos, nuestras soluciones de IA están diseñadas para resolver problemas reales.",
+      "serviceExpectation": "Implemento sistemas de automatización de marketing, análisis de datos avanzados y herramientas de inteligencia empresarial (BI) que te permiten aprovechar al máximo la información que recopilas. Además, nuestras soluciones de IA pueden integrarse en tu sistema CRM existente para personalizar la experiencia del cliente y aumentar la retención.",
+      "serviceExpectationList": [
+        {
+          "item": "Optimización del tiempo"
+        },
+        {
+          "item": "Segmentación precisa de audiencias"
+        },
+        {
+          "item": "Personalización a escala"
+        }
+      ],
+      "serviceQualifications": "Ya sea que busques mejorar el servicio al cliente, optimizar tus procesos internos o analizar grandes volúmenes de datos para tomar mejores decisiones, nuestras herramientas de IA te ayudarán a lograrlo. Nuestro enfoque se centra en la implementación de tecnologías emergentes que generen un impacto directo en la productividad y el rendimiento de tu empresa.",
+      "serviceQualificationsList": [
+        {
+          "item": "Análisis predictivo"
+        },
+        {
+          "item": "Optimización de campañas en tiempo real"
+        },
+        {
+          "item": "Escalabilidad"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "procesos",
+      "title": "Conexiones AI ",
+      "excerpt": "Utilizamos las mejores herramientas del mercado, como Zapier, Make ",
+      "iconLight": "/images/services/effeciency.svg",
+      "iconDark": "/images/services/effeciency-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": " En un mundo cada vez más competitivo, la automatización de procesos empresariales es clave para ganar agilidad y eficiencia. En Adnex, diseñamos e implementamos soluciones de automatización personalizadas que permiten a las empresas reducir costos operativos, minimizar errores y aumentar la productividad. Desde la gestión de inventarios hasta la facturación automatizada, nuestro enfoque cubre múltiples áreas críticas para el crecimiento de tu negocio.",
+      "serviceExpectation": "Utilizamos las mejores herramientas del mercado, como Zapier, Make (Integromat), y soluciones avanzadas de RPA (Robotic Process Automation), para integrar y automatizar procesos repetitivos y tediosos. Esto permite que tu equipo se enfoque en tareas más estratégicas, mientras que las operaciones rutinarias se manejan de manera automática y eficiente. Además, todas nuestras automatizaciones son escalables, lo que significa que crecerán junto con tu empresa sin comprometer la calidad del servicio.",
+      "serviceExpectationList": [
+        {
+          "item": "Integración fluida de múltiples plataformas."
+        },
+        {
+          "item": "Automatización AI avanzada "
+        },
+        {
+          "item": "Arquitectura escalable y modular."
+        }
+      ],
+      "serviceQualifications": "Nuestros sistemas de automatización se integran perfectamente con las plataformas de gestión empresarial más populares, como CRM, ERP y herramientas de marketing. Al conectar tus diferentes sistemas, garantizamos que la información fluya de manera fluida y en tiempo real entre tus departamentos, lo que resulta en decisiones más rápidas y mejor informadas.",
+      "serviceQualificationsList": [
+        {
+          "item": "Mayor productividad y eficiencia."
+        },
+        {
+          "item": "Mejor toma de decisiones."
+        },
+        {
+          "item": "Ahorro de tiempo y costos."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "social-media",
+      "title": "Social-Media",
+      "excerpt": "Creamos estrategias que conectan tu marca con tu audiencia",
+      "iconLight": "/images/services/fund.svg",
+      "iconDark": "/images/services/fund-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "En la era digital, tener una fuerte presencia en redes sociales es crucial para cualquier negocio. Nos especializamos en la gestión completa de tus redes sociales, desde la creación de contenido atractivo hasta la optimización de campañas publicitarias. A través de un análisis exhaustivo de tu audiencia, desarrollamos estrategias personalizadas que generan interacción y aumentan el alcance de tu marca.",
+      "serviceExpectation": "No sólo publicamos contenido regular, sino que también analizamos constantemente los datos de rendimiento para optimizar cada publicación. Usamos herramientas avanzadas de análisis como Hootsuite, Buffer y Google Analytics para medir métricas clave como la tasa de engagement, el crecimiento de seguidores y el retorno de la inversión publicitaria (ROAS). Nos encargamos de gestionar todas las plataformas principales, incluidas Facebook, Instagram, LinkedIn, Twitter y TikTok, adaptando el contenido a cada canal.",
+      "serviceExpectationList": [
+        {
+          "item": "Análisis de métricas avanzadas"
+        },
+        {
+          "item": "Programación automatizada de publicaciones"
+        },
+        {
+          "item": "Integración y monitoreo de redes sociales"
+        }
+        
+      ],
+      
+      "serviceQualifications": "También desarrollamos campañas publicitarias en redes sociales que están alineadas con tus objetivos comerciales, ya sea aumentar el reconocimiento de marca, generar ventas directas o captar nuevos leads. Utilizamos pruebas A/B para optimizar los anuncios y mejorar continuamente los resultados. Todo esto con el objetivo de maximizar tu presencia digital y conectar de manera efectiva con tu audiencia.",
+      "serviceQualificationsList": [
+        {
+          "item": "Aumento de seguidores y alcance"
+        },
+        {
+          "item": "Creación de contenido atractivo y relevante"
+        },
+        {
+          "item": "Optimización de la presencia en redes sociales"
+        }
+      ]
+    }
+  ]
+}

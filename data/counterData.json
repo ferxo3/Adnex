@@ -1,0 +1,22 @@
+{
+  "CounterData": [
+    {
+      "id": 1,
+      "number": "100",
+      "rightIcon": "%",
+      "text": "Innovación"
+    },
+    {
+      "id": 2,
+      "number": "30",
+      "rightIcon": "+",
+      "text": "Herramientas"
+    },
+    {
+      "id": 3,
+      "number": "6",
+      "rightIcon": "eq",
+      "text": "Equipo Internac."
+    }
+  ]
+}

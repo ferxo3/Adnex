@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes animate-gradient {
+    0% { background-position: 0% 0%; }
+    50% { background-position: 100% 100%; }
+    100% { background-position: 0% 0%; }
+  }
+  @keyframes simple-move {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(100px); }
+  }
+  
+  .bg-animated {
+    animation: simple-move 2s infinite alternate;
+  }
+  /* global.css */
+  .bg-white-custom {
+    --tw-bg-opacity: 0.6;
+    background-color: rgba(255, 255, 255, 0.3); /* Blanco con 30% de opacidad */
+  }
+  .bg-custom {
+    background-color: rgba(255, 255, 255, 0.6) !important;
+  }
