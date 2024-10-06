@@ -31,15 +31,6 @@ span {
     @apply translate-x-0;
   }
 }
-
-@media (max-width: 768px) {
-  .mobile-menu {
-    background-image: url('/images/1.svg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-}
 .active {
   @apply border-borderColor bg-white dark:border-borderColor/10 dark:bg-dark-200;
 }
