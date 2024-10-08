@@ -1,38 +1,36 @@
-import Footer from '@/components/footer/Footer'
-import Cta from '@/components/home-1/Cta'
-import Faq from '@/components/home-1/Faq'
-import Hero from '@/components/home-1/Hero'
-import Integration from '@/components/home-1/Integration'
-import Solution from '@/components/home-1/Solution'
-import Vision from '@/components/home-1/Vision'
-import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
-import Clients from '@/components/shared/Clients'
-import Counter from '@/components/shared/Counter'
-import FinancialBlog from '@/components/shared/FinancialBlog'
-import Services from '@/components/shared/Services'
-import Testimonial from '@/components/shared/Testimonial'
+import Footer from '@/components/footer/Footer';
+import GetStart from '@/components/home-8/GetStart';
+import Steps from '@/components/home-8/Steps';
+import Hero from '@/components/home-8/Hero';
+import Integration from '@/components/home-8/Integration';
+import PrimaryNavbar from '@/components/navbar/PrimaryNavbar';
+import FinancialBlog from '@/components/shared/FinancialBlog';
+import RubustFeature from '@/components/home-8/RubustFeature';
+import Clients from '@/components/shared/Clients';
+import Pricing from '@/components/shared/Pricing';
+import TimeLine from '@/components/home-7/TimeLine'; // Importamos TimeLine aquí
 
 export const metadata = {
   title: 'Adnex',
-}
+};
+
 export default function Home() {
   return (
     <>
       <PrimaryNavbar />
       <main>
         <Hero />
-        <Clients />
-        <Services />
-        <Counter />
-        <Vision />
-        <Solution />
+        <GetStart />
+        <Steps />
+        <RubustFeature />
+        <Pricing />
         <Integration />
-        <Faq />
-        <Testimonial />
         <FinancialBlog />
-        <Cta />
+        {/* Aquí agregamos el componente TimeLine */}
+        <TimeLine />
+        <Clients />
       </main>
       <Footer />
     </>
-  )
+  );
 }

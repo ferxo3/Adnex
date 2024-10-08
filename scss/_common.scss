@@ -317,15 +317,5 @@ span {
 }
 /* Modo claro */
 .bg-white {
-  background-color: rgba(255, 255, 255, 0.6); /* Fondo blanco con transparencia */
-}
-
-/* Modo oscuro */
-.dark\:bg-dark-300:is(.dark *) {
-  --tw-bg-opacity: 0.6;
-  background-color: rgba(54, 54, 56, 0.4); /* Fondo oscuro con transparencia */
-}
-border-gray-100 {
-  --tw-border-opacity: 0;
-  border-color: rgb(217 224 231 / var(--tw-border-opacity));
+  background-color: rgba(255, 255, 255, 1); /* Fondo blanco con transparencia */
 }

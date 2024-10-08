@@ -1,10 +1,10 @@
-import ChatbotChat from '@/components/home-6/ChatbotChat'
-import ChatControl from '@/components/home-6/ChatControl'
-import Feature from '@/components/home-6/Feature'
-import Hero from '@/components/home-6/Hero'
+import ChatbotChat from '@/components/home-08/ChatbotChat'
+import ChatControl from '@/components/home-08/ChatControl'
+import Feature from '@/components/home-08/Feature'
+import Hero from '@/components/home-08/Hero'
 import SecondaryNavbar from '@/components/navbar/SecondaryNavbar'
 import React from 'react'
-import Integration from '@/components/home-6/Integration'
+import Integration from '@/components/home-08/Integration'
 import Footer from '@/components/footer/Footer'
 import PricingV2 from '@/components/shared/PricingV2'
 import TestimonialV2 from '@/components/shared/TestimonialV2'
@@ -13,7 +13,7 @@ import CallToActionV2 from '@/components/shared/CallToActionV2'
 export const metadata = {
   title: 'Chatbot',
 }
-const HomePage6 = () => {
+const HomePage8 = () => {
   return (
     <>
       <SecondaryNavbar hideTopBar />
